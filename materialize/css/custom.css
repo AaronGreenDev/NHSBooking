@@ -1,0 +1,7 @@
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+	    color: #2196f3;
+}
+
+.blue.darken-3 {
+    background-color: #007ac3 !important;
+}
